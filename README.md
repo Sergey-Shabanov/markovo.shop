@@ -1,2 +1,3 @@
-# public.markovo.shop
-Для ознакомления с проектом
+# markovo.shop
+
+Интернет-магазин
